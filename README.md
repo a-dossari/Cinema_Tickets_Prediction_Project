@@ -1,5 +1,6 @@
 # Cinema Tickets Prediction
 
+
 Cinema industry is not excluded of getting advantage of predictive modeling. Like other industry e.g. retail, banking, restaurants, and sale forecast.
 This project can help cinemas for cost reduction and better ROI. By forecasting sale, screening in different location could be optimized as well as effective market targeting and pricing.
 Also historical data of sale and movies details e.g. cost, cast and crews, and other project details like schedule, could help producers to select high performance cast and crews and planning for better projects ROI . Also it helps to assign screening location on hot spots and areas.
