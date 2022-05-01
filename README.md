@@ -1,15 +1,15 @@
 # Cinema Tickets Prediction
 
 
-Cinema industry is not excluded of getting advantage of predictive modeling. Like other industry e.g. retail, banking, restaurants, and sale forecast.
-This project can help cinemas for cost reduction and better ROI. By forecasting sale, screening in different location could be optimized as well as effective market targeting and pricing.
-Also historical data of sale and movies details e.g. cost, cast and crews, and other project details like schedule, could help producers to select high performance cast and crews and planning for better projects ROI . Also it helps to assign screening location on hot spots and areas.
+Cinema industry is not excluded from getting the advantage of predictive modeling. Like other industries e.g. retail, banking, restaurants, and sales forecast.
+This project can help cinemas with cost reduction and better ROI. By forecasting sales, screening in different locations could be optimized as well as effective market targeting and pricing.
+Also, historical data of sales and movie details e.g. cost, cast and crews, and other project details like schedule, could help producers to select high performance cast and crews and plan for better projects ROI. Also, it helps to assign screening locations on hot spots and areas.
 
 
 
 ### **Content**
 
-About eight months sales history of different cinemas with detailed data of screening , during 2018 with encoded annonymized locations.
+About eight months of sales history of different cinemas with detailed data of screening, during 2018 with encoded annonymized locations.
 
 
 ### **Data Features**
@@ -32,17 +32,17 @@ Total sale per screening time
 
 **tickets_sold**
 
-Number of tickets solds.
+Number of tickets sold.
 
 
 **tickets_out**
 
-Number of tickets cancelled.
+Number of tickets canceled.
 
 
 **show_time**
 
-Screening time in each day.
+Screening time each day.
 
 
 **occu_perc**
@@ -52,12 +52,12 @@ Occupation percent of cinema by means of available capacity.
 
 **ticket_price**
 
-Price of ticket at show time.
+Price of the ticket at showtime.
 
 
 **ticket_use**
 
-Total number of thicket used.
+Total number of tickets used.
 
 
 **capacity**
