@@ -6,6 +6,7 @@ This project can help cinemas for cost reduction and better ROI. By forecasting 
 Also historical data of sale and movies details e.g. cost, cast and crews, and other project details like schedule, could help producers to select high performance cast and crews and planning for better projects ROI . Also it helps to assign screening location on hot spots and areas.
 
 
+
 ### **Content**
 
 About eight months sales history of different cinemas with detailed data of screening , during 2018 with encoded annonymized locations.
@@ -66,19 +67,19 @@ Capacity of the cinema.
 
 **date**
 
-Date of event.
+Date of the event.
 
 
 **month**
 
-Month of event.
+Month of the event.
 
 
 **quarter**
 
-Quarter of event.
+Quarter of the event.
 
 
 **day**
 
-Day of event.
+Day of the event.
